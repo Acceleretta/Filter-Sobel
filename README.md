@@ -1,0 +1,10 @@
+# Sobel_Filter
+# Filter_Sobel
+# Filter_Sobel
+# Filter_Sobel
+# Filter_Sobel
+# Filter_Sobel
+# Filter_Sobel
+# Filter-Sobel
+# Sobel_Filter
+# Sobel_Filter
